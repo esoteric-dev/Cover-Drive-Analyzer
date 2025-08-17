@@ -1,0 +1,24 @@
+{
+  "overall_score": 2,
+  "category_scores": {
+    "swing_control": 5,
+    "balance": 1,
+    "head_position": 2,
+    "footwork": 1,
+    "follow_through": 5
+  },
+  "feedback": {
+    "swing_control": "Work on maintaining proper elbow angle during swing",
+    "balance": "Focus on maintaining upright spine position",
+    "head_position": "Keep your head over the ball during the shot",
+    "footwork": "Work on proper front foot positioning and direction",
+    "follow_through": "Focus on completing the shot with proper follow-through"
+  },
+  "average_metrics": {
+    "front_elbow_angle": 111.71133098516793,
+    "spine_lean": -131.72543256094485,
+    "head_knee_alignment": -38.94336835426443,
+    "front_foot_direction": 95.30557792460047
+  },
+  "total_frames": 136
+}

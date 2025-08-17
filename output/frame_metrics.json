@@ -1,0 +1,826 @@
+{
+  "video_info": {
+    "fps": 30,
+    "width": 720,
+    "height": 1280,
+    "total_frames": 139
+  },
+  "frame_metrics": [
+    {
+      "front_elbow_angle": 152.7330257754198,
+      "spine_lean": -165.3278322307895,
+      "head_knee_alignment": -9.930782318115234,
+      "front_foot_direction": 171.00961938553237
+    },
+    {
+      "front_elbow_angle": 153.16260318545906,
+      "spine_lean": -164.2006498465599,
+      "head_knee_alignment": -13.946371078491211,
+      "front_foot_direction": 170.8059328084266
+    },
+    {
+      "front_elbow_angle": 152.10378149535538,
+      "spine_lean": -162.80690778053074,
+      "head_knee_alignment": -15.428152084350586,
+      "front_foot_direction": 170.46151979917926
+    },
+    {
+      "front_elbow_angle": 157.52685257883155,
+      "spine_lean": -162.06592408240644,
+      "head_knee_alignment": -15.190443992614746,
+      "front_foot_direction": 169.78613116291038
+    },
+    {
+      "front_elbow_angle": 159.28506281960094,
+      "spine_lean": -161.8694231367187,
+      "head_knee_alignment": -15.161025524139404,
+      "front_foot_direction": 170.06709083451275
+    },
+    {
+      "front_elbow_angle": 159.3214750917387,
+      "spine_lean": -160.48213070630445,
+      "head_knee_alignment": -15.37238359451294,
+      "front_foot_direction": 170.21009154110948
+    },
+    {
+      "front_elbow_angle": 159.5734859893698,
+      "spine_lean": -160.11195029583095,
+      "head_knee_alignment": -17.246668338775635,
+      "front_foot_direction": 168.49448621077832
+    },
+    {
+      "front_elbow_angle": 153.46788077361404,
+      "spine_lean": -160.1731065093758,
+      "head_knee_alignment": -17.268126010894775,
+      "front_foot_direction": 167.84108268367265
+    },
+    {
+      "front_elbow_angle": 153.4838656983744,
+      "spine_lean": -160.07855283949127,
+      "head_knee_alignment": -16.214404106140137,
+      "front_foot_direction": 167.39906685422048
+    },
+    {
+      "front_elbow_angle": 162.18765311351817,
+      "spine_lean": -160.2893310947252,
+      "head_knee_alignment": -14.77910041809082,
+      "front_foot_direction": 167.97219138798923
+    },
+    {
+      "front_elbow_angle": 161.48350692507717,
+      "spine_lean": -159.89242891295171,
+      "head_knee_alignment": -15.159759521484375,
+      "front_foot_direction": 168.52610756140285
+    },
+    {
+      "front_elbow_angle": 162.2329248566345,
+      "spine_lean": -159.63206454845812,
+      "head_knee_alignment": -17.08423376083374,
+      "front_foot_direction": 169.66255041131382
+    },
+    {
+      "front_elbow_angle": 163.24900362640312,
+      "spine_lean": -159.75846137969117,
+      "head_knee_alignment": -18.190677165985107,
+      "front_foot_direction": 169.74857806909864
+    },
+    {
+      "front_elbow_angle": 166.4425973484401,
+      "spine_lean": -160.366390100551,
+      "head_knee_alignment": -17.89095640182495,
+      "front_foot_direction": 168.8523558191171
+    },
+    {
+      "front_elbow_angle": 167.04593591835038,
+      "spine_lean": -160.86709377663564,
+      "head_knee_alignment": -17.778239250183105,
+      "front_foot_direction": 168.52316772304124
+    },
+    {
+      "front_elbow_angle": 167.34449440883787,
+      "spine_lean": -161.4931793370203,
+      "head_knee_alignment": -18.904273509979248,
+      "front_foot_direction": 169.09877846261398
+    },
+    {
+      "front_elbow_angle": 160.42326970685096,
+      "spine_lean": -161.20197522336395,
+      "head_knee_alignment": -20.13315439224243,
+      "front_foot_direction": 169.33535499100194
+    },
+    {
+      "front_elbow_angle": 163.47470556645771,
+      "spine_lean": -162.81843525437333,
+      "head_knee_alignment": -21.411516666412354,
+      "front_foot_direction": 170.00405589920547
+    },
+    {
+      "front_elbow_angle": 159.3445466898874,
+      "spine_lean": -162.19200464108417,
+      "head_knee_alignment": -21.94542646408081,
+      "front_foot_direction": 171.53713233493275
+    },
+    {
+      "front_elbow_angle": 158.86695098045178,
+      "spine_lean": -161.04232728882636,
+      "head_knee_alignment": -22.073657512664795,
+      "front_foot_direction": 171.77128138767864
+    },
+    {
+      "front_elbow_angle": 158.29663082476586,
+      "spine_lean": -159.65374571775692,
+      "head_knee_alignment": -23.162720203399658,
+      "front_foot_direction": 174.1202777008572
+    },
+    {
+      "front_elbow_angle": 159.51529235164443,
+      "spine_lean": -159.97926211330758,
+      "head_knee_alignment": -21.938517093658447,
+      "front_foot_direction": 173.06637507167656
+    },
+    {
+      "front_elbow_angle": 158.5255824940554,
+      "spine_lean": -159.05043056376604,
+      "head_knee_alignment": -20.08579730987549,
+      "front_foot_direction": 172.00123179783046
+    },
+    {
+      "front_elbow_angle": 155.10166639744827,
+      "spine_lean": -158.6073953685351,
+      "head_knee_alignment": -19.932053089141846,
+      "front_foot_direction": 170.20938961200642
+    },
+    {
+      "front_elbow_angle": 152.8486987452946,
+      "spine_lean": -157.85166992489823,
+      "head_knee_alignment": -18.042125701904297,
+      "front_foot_direction": 170.3418968332949
+    },
+    {
+      "front_elbow_angle": 151.6396936388126,
+      "spine_lean": -157.54942778503116,
+      "head_knee_alignment": -17.888853549957275,
+      "front_foot_direction": 170.07676372991867
+    },
+    {
+      "front_elbow_angle": 150.57228572941017,
+      "spine_lean": -156.79523836592557,
+      "head_knee_alignment": -16.524081230163574,
+      "front_foot_direction": 169.27566605431494
+    },
+    {
+      "front_elbow_angle": 152.45969733100011,
+      "spine_lean": -154.89012672987093,
+      "head_knee_alignment": -18.158018589019775,
+      "front_foot_direction": 168.41905586619288
+    },
+    {
+      "front_elbow_angle": 152.550526309451,
+      "spine_lean": -155.04408009192528,
+      "head_knee_alignment": -17.515575885772705,
+      "front_foot_direction": 166.3455666759535
+    },
+    {
+      "front_elbow_angle": 152.83503690740324,
+      "spine_lean": -154.30020154159013,
+      "head_knee_alignment": -20.723648071289062,
+      "front_foot_direction": 165.3135444981369
+    },
+    {
+      "front_elbow_angle": 159.1716002800182,
+      "spine_lean": -153.47511784155057,
+      "head_knee_alignment": -21.006438732147217,
+      "front_foot_direction": 164.63617195428202
+    },
+    {
+      "front_elbow_angle": 159.59308239804764,
+      "spine_lean": -153.04446882353926,
+      "head_knee_alignment": -21.578006744384766,
+      "front_foot_direction": 163.47864927082472
+    },
+    {
+      "front_elbow_angle": 160.82502094136456,
+      "spine_lean": -152.6757541477113,
+      "head_knee_alignment": -24.051196575164795,
+      "front_foot_direction": 163.21483047696654
+    },
+    {
+      "front_elbow_angle": 161.61606009082044,
+      "spine_lean": -152.46083020701366,
+      "head_knee_alignment": -24.390592575073242,
+      "front_foot_direction": 162.78662043556955
+    },
+    {
+      "front_elbow_angle": 161.79645970355074,
+      "spine_lean": -152.0895355790599,
+      "head_knee_alignment": -24.437198638916016,
+      "front_foot_direction": 161.08894060716844
+    },
+    {
+      "front_elbow_angle": 161.8174085881285,
+      "spine_lean": -152.19874178613898,
+      "head_knee_alignment": -26.76192283630371,
+      "front_foot_direction": 161.77460405006605
+    },
+    {
+      "front_elbow_angle": 162.84629270047324,
+      "spine_lean": -152.42142034079475,
+      "head_knee_alignment": -23.460488319396973,
+      "front_foot_direction": 164.54203092405103
+    },
+    {
+      "front_elbow_angle": 162.0451689646352,
+      "spine_lean": -152.39219741867413,
+      "head_knee_alignment": -20.41783332824707,
+      "front_foot_direction": 172.35156588865158
+    },
+    {
+      "front_elbow_angle": 165.93821162596743,
+      "spine_lean": -151.96482430232558,
+      "head_knee_alignment": -25.639150142669678,
+      "front_foot_direction": 170.49038592322924
+    },
+    {
+      "front_elbow_angle": 163.0137024342626,
+      "spine_lean": -151.74468172161082,
+      "head_knee_alignment": -24.920876026153564,
+      "front_foot_direction": 170.18905612227434
+    },
+    {
+      "front_elbow_angle": 161.94889853804804,
+      "spine_lean": -152.06299762934847,
+      "head_knee_alignment": -22.48549461364746,
+      "front_foot_direction": 167.31220421252874
+    },
+    {
+      "front_elbow_angle": 171.41105886964144,
+      "spine_lean": -152.28374220501047,
+      "head_knee_alignment": -22.41408348083496,
+      "front_foot_direction": 164.9934582131311
+    },
+    {
+      "front_elbow_angle": 167.19663569471487,
+      "spine_lean": -151.67368892423264,
+      "head_knee_alignment": -21.121859550476074,
+      "front_foot_direction": 155.7708991101291
+    },
+    {
+      "front_elbow_angle": 174.75501912334724,
+      "spine_lean": -151.24447853045098,
+      "head_knee_alignment": -19.814722537994385,
+      "front_foot_direction": 152.2889046420089
+    },
+    {
+      "front_elbow_angle": 174.81861424201247,
+      "spine_lean": -151.10888477467947,
+      "head_knee_alignment": -20.71770429611206,
+      "front_foot_direction": 151.14311018620634
+    },
+    {
+      "front_elbow_angle": 169.0119700019871,
+      "spine_lean": -150.15709540005665,
+      "head_knee_alignment": -20.42429208755493,
+      "front_foot_direction": 151.80328684709545
+    },
+    {
+      "front_elbow_angle": 168.9997302489457,
+      "spine_lean": -149.46369474494546,
+      "head_knee_alignment": -19.735393524169922,
+      "front_foot_direction": 157.34931516008413
+    },
+    {
+      "front_elbow_angle": 170.57783415068792,
+      "spine_lean": -148.49822832994573,
+      "head_knee_alignment": -18.56163740158081,
+      "front_foot_direction": 156.68481517565715
+    },
+    {
+      "front_elbow_angle": 170.0335314052347,
+      "spine_lean": -148.69405753462294,
+      "head_knee_alignment": -18.256852626800537,
+      "front_foot_direction": 153.2505133884313
+    },
+    {
+      "front_elbow_angle": 171.04137726594573,
+      "spine_lean": -148.38531865787778,
+      "head_knee_alignment": -21.54639959335327,
+      "front_foot_direction": 158.2881460577406
+    },
+    {
+      "front_elbow_angle": 174.30543014644206,
+      "spine_lean": -148.39314241164428,
+      "head_knee_alignment": -24.899353981018066,
+      "front_foot_direction": 173.9955942724752
+    },
+    {
+      "front_elbow_angle": 176.60897929755458,
+      "spine_lean": -148.02923033869712,
+      "head_knee_alignment": -25.546345710754395,
+      "front_foot_direction": 178.37523833745976
+    },
+    {
+      "front_elbow_angle": 179.06254298956708,
+      "spine_lean": -147.50925943167192,
+      "head_knee_alignment": -27.265169620513916,
+      "front_foot_direction": 178.58105752013063
+    },
+    {
+      "front_elbow_angle": 173.80549870559034,
+      "spine_lean": -146.68662275359065,
+      "head_knee_alignment": -29.03738021850586,
+      "front_foot_direction": 164.33969642374672
+    },
+    {
+      "front_elbow_angle": 174.1391334171219,
+      "spine_lean": -145.78176307952572,
+      "head_knee_alignment": -29.83888864517212,
+      "front_foot_direction": 176.09508898092366
+    },
+    {
+      "front_elbow_angle": 178.22977780660707,
+      "spine_lean": -144.79313469296906,
+      "head_knee_alignment": -30.904197692871094,
+      "front_foot_direction": 174.12721933241426
+    },
+    {
+      "front_elbow_angle": 171.1061822572481,
+      "spine_lean": -144.55802870484052,
+      "head_knee_alignment": -31.19239568710327,
+      "front_foot_direction": 156.2328260294744
+    },
+    {
+      "front_elbow_angle": 172.66033888701384,
+      "spine_lean": -144.51072992043567,
+      "head_knee_alignment": -28.631572723388672,
+      "front_foot_direction": 151.45255960239172
+    },
+    {
+      "front_elbow_angle": 176.88160675708275,
+      "spine_lean": -143.52700389586988,
+      "head_knee_alignment": -30.975265502929688,
+      "front_foot_direction": 152.26158790408053
+    },
+    {
+      "front_elbow_angle": 169.68716614317054,
+      "spine_lean": -141.63502605463017,
+      "head_knee_alignment": -30.409791469573975,
+      "front_foot_direction": 152.1148447608155
+    },
+    {
+      "front_elbow_angle": 156.10165419995755,
+      "spine_lean": -139.95510563676388,
+      "head_knee_alignment": -31.457719802856445,
+      "front_foot_direction": 152.6910834270286
+    },
+    {
+      "front_elbow_angle": 166.82227766354688,
+      "spine_lean": -137.4622594600535,
+      "head_knee_alignment": -32.058749198913574,
+      "front_foot_direction": 162.3975509038922
+    },
+    {
+      "front_elbow_angle": 6.765559849784957,
+      "spine_lean": -135.28571359546228,
+      "head_knee_alignment": -33.00788640975952,
+      "front_foot_direction": 156.70160031252334
+    },
+    {
+      "front_elbow_angle": 12.396663721160603,
+      "spine_lean": -133.0545570654592,
+      "head_knee_alignment": -35.11983633041382,
+      "front_foot_direction": 162.77937171266976
+    },
+    {
+      "front_elbow_angle": 9.963364246756226,
+      "spine_lean": -130.58955857217663,
+      "head_knee_alignment": -37.62162923812866,
+      "front_foot_direction": 99.5012693897172
+    },
+    {
+      "front_elbow_angle": 9.442103688996568,
+      "spine_lean": -127.88112128161752,
+      "head_knee_alignment": -58.941049575805664,
+      "front_foot_direction": 12.428813499074392
+    },
+    {
+      "front_elbow_angle": 20.852618658247312,
+      "spine_lean": -128.07392416235433,
+      "head_knee_alignment": -69.71151351928711,
+      "front_foot_direction": 9.546984219482031
+    },
+    {
+      "front_elbow_angle": 21.646003785286737,
+      "spine_lean": -126.97581880865015,
+      "head_knee_alignment": -70.3758430480957,
+      "front_foot_direction": 6.0349146569980565
+    },
+    {
+      "front_elbow_angle": 24.09317113962421,
+      "spine_lean": -129.1159807617321,
+      "head_knee_alignment": -76.31376028060913,
+      "front_foot_direction": 6.067155460345902
+    },
+    {
+      "front_elbow_angle": 18.326245760469508,
+      "spine_lean": -130.58167669420357,
+      "head_knee_alignment": -81.64665699005127,
+      "front_foot_direction": 3.7096558372273134
+    },
+    {
+      "front_elbow_angle": 0.6815258096710461,
+      "spine_lean": -132.79727191165458,
+      "head_knee_alignment": -82.03291654586792,
+      "front_foot_direction": 10.91972990122962
+    },
+    {
+      "front_elbow_angle": 159.8083637830965,
+      "spine_lean": -134.06490102771195,
+      "head_knee_alignment": -71.6332197189331,
+      "front_foot_direction": 12.842852062570094
+    },
+    {
+      "front_elbow_angle": 146.0480793698271,
+      "spine_lean": -136.51498964077655,
+      "head_knee_alignment": -78.88069868087769,
+      "front_foot_direction": 23.30586845712654
+    },
+    {
+      "front_elbow_angle": 94.43773735507735,
+      "spine_lean": -137.52775037922197,
+      "head_knee_alignment": -77.56227493286133,
+      "front_foot_direction": 119.36749992068269
+    },
+    {
+      "front_elbow_angle": 67.43922162139701,
+      "spine_lean": -140.24018784666046,
+      "head_knee_alignment": -67.55334377288818,
+      "front_foot_direction": 46.46432235119941
+    },
+    {
+      "front_elbow_angle": 73.48224051165926,
+      "spine_lean": -141.34291330450932,
+      "head_knee_alignment": -65.5784010887146,
+      "front_foot_direction": 32.22925586397413
+    },
+    {
+      "front_elbow_angle": 51.04753864554359,
+      "spine_lean": -143.29244488884808,
+      "head_knee_alignment": -67.03338146209717,
+      "front_foot_direction": 37.16777966380332
+    },
+    {
+      "front_elbow_angle": 36.544847490248806,
+      "spine_lean": -144.29994546852302,
+      "head_knee_alignment": -67.20223188400269,
+      "front_foot_direction": 28.317906338395623
+    },
+    {
+      "front_elbow_angle": 15.268835288271479,
+      "spine_lean": -144.0334645021725,
+      "head_knee_alignment": -66.26118421554565,
+      "front_foot_direction": 24.760287888393908
+    },
+    {
+      "front_elbow_angle": 15.137445559536575,
+      "spine_lean": -147.66912668434696,
+      "head_knee_alignment": -56.45180940628052,
+      "front_foot_direction": 28.74869457304947
+    },
+    {
+      "front_elbow_angle": 8.320627740654668,
+      "spine_lean": -149.59891315409774,
+      "head_knee_alignment": -62.47004270553589,
+      "front_foot_direction": 29.98712111768477
+    },
+    {
+      "front_elbow_angle": 6.8690890997952465,
+      "spine_lean": -150.93604730301993,
+      "head_knee_alignment": -67.00698852539062,
+      "front_foot_direction": 34.02024123295763
+    },
+    {
+      "front_elbow_angle": 8.019113100398677,
+      "spine_lean": -152.5983900296881,
+      "head_knee_alignment": -69.56454992294312,
+      "front_foot_direction": 33.35673024261905
+    },
+    {
+      "front_elbow_angle": 5.442962546658848,
+      "spine_lean": -153.5591089539726,
+      "head_knee_alignment": -73.71540784835815,
+      "front_foot_direction": 16.87462755805714
+    },
+    {
+      "front_elbow_angle": 4.883211122347359,
+      "spine_lean": -152.84588124256297,
+      "head_knee_alignment": -69.47715282440186,
+      "front_foot_direction": 18.968155183155456
+    },
+    {
+      "front_elbow_angle": 5.966184515827774,
+      "spine_lean": -153.5118032082483,
+      "head_knee_alignment": -58.32963466644287,
+      "front_foot_direction": 19.980493182613674
+    },
+    {
+      "front_elbow_angle": 6.858799104144898,
+      "spine_lean": -153.58265075210252,
+      "head_knee_alignment": -61.127307415008545,
+      "front_foot_direction": 18.035261321906958
+    },
+    {
+      "front_elbow_angle": 6.831998611545853,
+      "spine_lean": -152.64706262996575,
+      "head_knee_alignment": -65.64509153366089,
+      "front_foot_direction": 5.127964142806191
+    },
+    {
+      "front_elbow_angle": 9.408146407197137,
+      "spine_lean": -152.6167719280337,
+      "head_knee_alignment": -69.38477754592896,
+      "front_foot_direction": 75.55206588163209
+    },
+    {
+      "front_elbow_angle": 10.338386924135477,
+      "spine_lean": -152.52087109241347,
+      "head_knee_alignment": -69.82845783233643,
+      "front_foot_direction": 42.41048425317001
+    },
+    {
+      "front_elbow_angle": 11.85416200480151,
+      "spine_lean": -153.06208857593393,
+      "head_knee_alignment": -67.03130006790161,
+      "front_foot_direction": 47.69819545743127
+    },
+    {
+      "front_elbow_angle": 11.740469357026283,
+      "spine_lean": -152.97691093431408,
+      "head_knee_alignment": -68.55561017990112,
+      "front_foot_direction": 48.80287281511453
+    },
+    {
+      "front_elbow_angle": 13.17785160402822,
+      "spine_lean": -153.51734772958545,
+      "head_knee_alignment": -68.70909690856934,
+      "front_foot_direction": 44.91830730137022
+    },
+    {
+      "front_elbow_angle": 13.896193587965017,
+      "spine_lean": -154.04416088058326,
+      "head_knee_alignment": -69.97737407684326,
+      "front_foot_direction": 44.819115633894825
+    },
+    {
+      "front_elbow_angle": 13.031277767321024,
+      "spine_lean": -154.32886260109106,
+      "head_knee_alignment": -70.49804449081421,
+      "front_foot_direction": 104.44661093337885
+    },
+    {
+      "front_elbow_angle": 12.75340652333033,
+      "spine_lean": -154.48986589599176,
+      "head_knee_alignment": -66.90536499023438,
+      "front_foot_direction": 31.106784749939006
+    },
+    {
+      "front_elbow_angle": 14.12399701345407,
+      "spine_lean": -154.7925824906029,
+      "head_knee_alignment": -66.12336158752441,
+      "front_foot_direction": 36.579828143108855
+    },
+    {
+      "front_elbow_angle": 16.271599809384156,
+      "spine_lean": -154.97112971407896,
+      "head_knee_alignment": -66.65896654129028,
+      "front_foot_direction": 45.426932407278734
+    },
+    {
+      "front_elbow_angle": 16.108728422925072,
+      "spine_lean": -155.45544593884614,
+      "head_knee_alignment": -64.91559505462646,
+      "front_foot_direction": 46.25232380222403
+    },
+    {
+      "front_elbow_angle": 16.459138352517115,
+      "spine_lean": -155.75032030684986,
+      "head_knee_alignment": -67.99316167831421,
+      "front_foot_direction": 102.9737116220498
+    },
+    {
+      "front_elbow_angle": 19.642919782160238,
+      "spine_lean": -155.4026566106196,
+      "head_knee_alignment": -69.04031753540039,
+      "front_foot_direction": 97.19621684742962
+    },
+    {
+      "front_elbow_angle": 25.817190672229945,
+      "spine_lean": -155.91890392467892,
+      "head_knee_alignment": -67.95151233673096,
+      "front_foot_direction": 23.774615295316707
+    },
+    {
+      "front_elbow_angle": 28.325883544866585,
+      "spine_lean": -156.7183744741063,
+      "head_knee_alignment": -65.90097427368164,
+      "front_foot_direction": 40.41128259613852
+    },
+    {
+      "front_elbow_angle": 31.89836922711721,
+      "spine_lean": -157.01715042882495,
+      "head_knee_alignment": -58.8443398475647,
+      "front_foot_direction": 39.761645788703596
+    },
+    {
+      "front_elbow_angle": 36.685302378428965,
+      "spine_lean": -157.71480198683227,
+      "head_knee_alignment": -53.21446895599365,
+      "front_foot_direction": 131.9620740012447
+    },
+    {
+      "front_elbow_angle": 49.661690552119765,
+      "spine_lean": -159.6408233552839,
+      "head_knee_alignment": -51.68721914291382,
+      "front_foot_direction": 132.3099863291021
+    },
+    {
+      "front_elbow_angle": 64.69636650693745,
+      "spine_lean": -159.5251567531537,
+      "head_knee_alignment": -55.73671102523804,
+      "front_foot_direction": 22.543204310842203
+    },
+    {
+      "front_elbow_angle": 62.59532908276249,
+      "spine_lean": -160.0564068915044,
+      "head_knee_alignment": -57.59140491485596,
+      "front_foot_direction": 3.014861849674764
+    },
+    {
+      "front_elbow_angle": 59.86690266438967,
+      "spine_lean": -159.48740659703654,
+      "head_knee_alignment": -58.0462646484375,
+      "front_foot_direction": 76.51718124266975
+    },
+    {
+      "front_elbow_angle": 94.01484521032764,
+      "spine_lean": -158.37128916326637,
+      "head_knee_alignment": -65.45304536819458,
+      "front_foot_direction": 14.261107824061613
+    },
+    {
+      "front_elbow_angle": 137.54487430122998,
+      "spine_lean": -158.42453112257778,
+      "head_knee_alignment": -64.98353004455566,
+      "front_foot_direction": 13.393303633853748
+    },
+    {
+      "front_elbow_angle": 135.37685940627267,
+      "spine_lean": -159.24075621323993,
+      "head_knee_alignment": -64.11657571792603,
+      "front_foot_direction": 21.85578519248113
+    },
+    {
+      "front_elbow_angle": 150.3468965957667,
+      "spine_lean": -160.3261467645651,
+      "head_knee_alignment": -64.78017568588257,
+      "front_foot_direction": 23.68006775362891
+    },
+    {
+      "front_elbow_angle": 148.50253561452743,
+      "spine_lean": -161.1782744660696,
+      "head_knee_alignment": -63.75432729721069,
+      "front_foot_direction": 37.6032346164521
+    },
+    {
+      "front_elbow_angle": 153.81321529173897,
+      "spine_lean": -161.67462961239642,
+      "head_knee_alignment": -63.533527851104736,
+      "front_foot_direction": 42.55019907915381
+    },
+    {
+      "front_elbow_angle": 148.6615439304226,
+      "spine_lean": -162.7321346575399,
+      "head_knee_alignment": -64.7645115852356,
+      "front_foot_direction": 42.76859202423635
+    },
+    {
+      "front_elbow_angle": 151.53792621637123,
+      "spine_lean": -165.02679833476932,
+      "head_knee_alignment": -58.78700494766235,
+      "front_foot_direction": 42.35167999505143
+    },
+    {
+      "front_elbow_angle": 155.28193688954656,
+      "spine_lean": -166.62996995116217,
+      "head_knee_alignment": -54.784719944000244,
+      "front_foot_direction": 27.138296507630823
+    },
+    {
+      "front_elbow_angle": 154.682951302767,
+      "spine_lean": -168.50148100011717,
+      "head_knee_alignment": -46.73551797866821,
+      "front_foot_direction": 19.317999273605423
+    },
+    {
+      "front_elbow_angle": 152.223242229073,
+      "spine_lean": -169.70727963135164,
+      "head_knee_alignment": -43.0054235458374,
+      "front_foot_direction": 15.870424167031482
+    },
+    {
+      "front_elbow_angle": 153.0551041348584,
+      "spine_lean": -171.48048783624782,
+      "head_knee_alignment": -39.55724000930786,
+      "front_foot_direction": 13.4295496580426
+    },
+    {
+      "front_elbow_angle": 154.61025519723788,
+      "spine_lean": -173.8831591822045,
+      "head_knee_alignment": -32.886435985565186,
+      "front_foot_direction": 14.387860260264791
+    },
+    {
+      "front_elbow_angle": 157.06203823905213,
+      "spine_lean": -175.2170883969238,
+      "head_knee_alignment": -29.232001304626465,
+      "front_foot_direction": 17.67796555922908
+    },
+    {
+      "front_elbow_angle": 168.65624397469762,
+      "spine_lean": -176.1931205310338,
+      "head_knee_alignment": -25.107085704803467,
+      "front_foot_direction": 14.802975118148352
+    },
+    {
+      "front_elbow_angle": 168.25847366220043,
+      "spine_lean": -176.64966697555073,
+      "head_knee_alignment": -25.06483554840088,
+      "front_foot_direction": 15.079413475191183
+    },
+    {
+      "front_elbow_angle": 165.0520838357155,
+      "spine_lean": -176.8253748402181,
+      "head_knee_alignment": -21.19084596633911,
+      "front_foot_direction": 13.15552204906476
+    },
+    {
+      "front_elbow_angle": 140.08045797503607,
+      "spine_lean": -178.5095280334259,
+      "head_knee_alignment": -18.37117910385132,
+      "front_foot_direction": 13.12139991298257
+    },
+    {
+      "front_elbow_angle": 122.74201234685798,
+      "spine_lean": 179.38313254542402,
+      "head_knee_alignment": -16.553006172180176,
+      "front_foot_direction": 11.918456411247824
+    },
+    {
+      "front_elbow_angle": 107.43802571322516,
+      "spine_lean": 178.64200287858907,
+      "head_knee_alignment": -19.22536611557007,
+      "front_foot_direction": 9.75114292244251
+    },
+    {
+      "front_elbow_angle": 108.68112798370929,
+      "spine_lean": 177.70131429189394,
+      "head_knee_alignment": -14.616644382476807,
+      "front_foot_direction": 3.2094429713808807
+    },
+    {
+      "front_elbow_angle": 109.16246651040038,
+      "spine_lean": 177.632999135845,
+      "head_knee_alignment": -13.638453483581543,
+      "front_foot_direction": 2.151479728269348
+    },
+    {
+      "front_elbow_angle": 112.33853707038621,
+      "spine_lean": 177.18640874011757,
+      "head_knee_alignment": -9.839866161346436,
+      "front_foot_direction": 0.059077611305875986
+    },
+    {
+      "front_elbow_angle": 110.97230124184438,
+      "spine_lean": 176.7640067949398,
+      "head_knee_alignment": -5.057508945465088,
+      "front_foot_direction": 1.278109925135393
+    },
+    {
+      "front_elbow_angle": 111.52881268641534,
+      "spine_lean": 177.33248388161962,
+      "head_knee_alignment": 0.07078886032104492,
+      "front_foot_direction": 1.9476984481286226
+    },
+    {
+      "front_elbow_angle": 111.10007819197006,
+      "spine_lean": 177.42824456880703,
+      "head_knee_alignment": 0.5624914169311523,
+      "front_foot_direction": 3.325312542117897
+    },
+    {
+      "front_elbow_angle": 110.12230510336788,
+      "spine_lean": 177.74435103561066,
+      "head_knee_alignment": 2.005305290222168,
+      "front_foot_direction": 3.371444424697973
+    }
+  ]
+}
