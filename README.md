@@ -40,7 +40,7 @@ A Python-based system for real-time biomechanical analysis of cricket cover driv
 
 1. **Clone or download the project files**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/esoteric-dev/Cover-Drive-Analyzer
    cd cricket-cover-drive-analyzer
    ```
 
